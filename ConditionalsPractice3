@@ -1,0 +1,17 @@
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      int x = 9;
+      int y = 25;
+      if (x < y)
+      {
+        Console.WriteLine("x is less than y");
+      }
+    }
+  }
+}
