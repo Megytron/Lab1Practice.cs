@@ -1,0 +1,15 @@
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      if (15 < 18) 
+      {
+        Console.WriteLine("15 is less than 18");
+      }    
+    }
+  }
+}
